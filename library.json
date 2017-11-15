@@ -1,0 +1,17 @@
+{
+    "name": "WidgetInertialSensor",
+    "version": "1.0.0",
+    "keywords": "Widget,InertialSensor",
+    "description": "惯性传感器应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetInertialSensor.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
